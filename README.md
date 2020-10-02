@@ -13,7 +13,7 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 
 They have contracted a consulting company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market. The company wants to know:
 
-1.Which variables are significant in predicting the demand for shared bikes.
+1.Which variables are significant in predicting the demand for shared bikes.</br>
 2.How well those variables describe the bike demands
 
 
